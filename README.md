@@ -2,6 +2,9 @@
 
 I'm an iOS Developer who loves to empower people by creating immersive and accessible apps. Driven by progression, I am inspired to continuously improve and expand upon my knowledge. I am currently attending [Lambda School](https://www.Lambdaschool.com), a 9+ month Coding Bootcamp with a focus on iOS Development & Computer Science.
 
+
+[![Enrique's github stats](https://github-readme-stats.vercel.app/api?username=EnriqueG24&show_icons=true&count_private=true&theme=algolia)](https://github.com/EnriqueG24/github-readme-stats)
+
 ---
 
 ### I'm currently seeking my first iOS Developer Job, but in the meantime...
@@ -16,5 +19,12 @@ I'm an iOS Developer who loves to empower people by creating immersive and acces
 
 ---
 
-### Tech Stack
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift.png" height="50"> <img src="https://miro.medium.com/max/520/1*ybR3zZMfMB1MEO6yjhNcog.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" height ="50"> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" height="50"><img src="https://koenig-media.raywenderlich.com/uploads/2019/01/succeeded.png" height="50">
+### Skills
+* Swift
+* Objective-C
+* SwiftUI
+* ARKit
+* CoreML
+* Unit & UI Testing
+* Core Data
+* Python
