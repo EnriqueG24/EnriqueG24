@@ -1,10 +1,10 @@
 ### Hi there 👋 👨🏻‍💻! I'm Enrique Gongora
 
-I'm an iOS Developer who loves to empower people by creating immersive and accessible apps. Driven by progression, I am inspired to continuously improve and expand upon my knowledge. I am currently attending [Lambda School](https://www.Lambdaschool.com), a 9+ month Coding Bootcamp with a focus on iOS Development & Computer Science.
+I'm an iOS Developer who loves to empower people by creating immersive and accessible apps. Driven by progression, I am inspired to continuously improve and expand upon my knowledge. I have recently graduated from [Lambda School](https://www.Lambdaschool.com), a 9+ month Coding Bootcamp with a focus on iOS Development & Computer Science.
 
 ---
 
-### I'm currently attending Lambda School, but in the meantime...
+### I'm currently seeking a full time iOS Developer job, but in the meantime...
 
 - 🔭 I’m currently working on ... refactoring my current projects in SwiftUI
 - 🌱 I’m currently learning ... SwiftUI
