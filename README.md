@@ -1,9 +1,12 @@
+[![Hire Me](https://img.shields.io/badge/OPEN_TO_WORK-iOS_Engineer-brightgreen?style=for-the-badge)](mailto:EGTech24@Gmail.com)
+
 # Enrique Gongora
 ## iOS Engineer with 4+ Years Professional Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-gongora/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EGTech24@Gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueG24)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingwithenrique2674)
 
 ## 👨🏻‍💻 About Me
 iOS Engineer with 4+ years specializing in Swift development and complete application lifecycle management. Passionate about creating immersive, accessible applications that solve real-world problems. Proven track record of increasing user engagement by 160% and App Store ratings to 4.8/5 through performance optimization, intuitive UX implementations, and automated testing. Recently completed a successful tenure at CareRev, now seeking new opportunities to leverage my expertise in a collaborative, innovative environment.
