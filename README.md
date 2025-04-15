@@ -9,10 +9,10 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingwithenrique2674)
 
 ## 👨🏻‍💻 About Me
-iOS Engineer with 4+ years specializing in Swift development and complete application lifecycle management. Passionate about creating immersive, accessible applications that solve real-world problems. Proven track record of increasing user engagement by 160% and App Store ratings to 4.8/5 through performance optimization, intuitive UX implementations, and automated testing. Recently completed a successful tenure at CareRev, now seeking new opportunities to leverage my expertise in a collaborative, innovative environment.
+iOS Engineer with 4+ years specializing in Swift development and complete application lifecycle management. Passionate about creating immersive, accessible applications that solve real-world problems. Proven track record of increasing user engagement by 160% and App Store ratings to 4.8/5 through performance optimization, intuitive UX implementations, and automated testing. Recently wrapped up a successful tenure at CareRev and am now seeking new opportunities to leverage my expertise in a collaborative, innovative environment.
 
 ## 🔍 Currently Seeking
-**Full-time iOS Engineer position** where I can apply my experience in Swift, SwiftUI, and modern iOS frameworks to create impactful mobile solutions with clean architecture and intuitive user experiences.
+**Full-time iOS Engineer position** where I can leverage my expertise in Swift, SwiftUI, and modern iOS frameworks to build impactful, user-centered mobile products.
 
 ## 💼 Experience Highlights
 - Increased App Store reviews from 14 to 1,500+ with a 4.8/5 rating by implementing strategic StoreKit review prompts
@@ -20,7 +20,7 @@ iOS Engineer with 4+ years specializing in Swift development and complete applic
 - Led migration from RxSwift to Combine and replaced Font Awesome with SFSymbols, reducing app size by 19%
 - Streamlined deployment process by implementing Xcode Cloud CI/CD pipeline, reducing build time by 60%
 - Conceptualized, designed, and implemented biometric authentication (FaceID/TouchID) feature from scratch
-- Autonomously led all iOS development initiatives as sole iOS Engineer for 9 months
+- Sole iOS Engineer for 9 months, independently leading all mobile development initiatives
 
 ## 🛠️ Technical Skills
 ### Mobile Development
@@ -82,7 +82,7 @@ I'm always open to discussing iOS development, potential collaborations, or new 
 - Based in Los Angeles, CA
 - Passionate about creating accessible mobile experiences
 
----
+## 📊 GitHub Stats
 
 [![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnriqueG24&show_icons=true&count_private=true&theme=algolia)](https://github.com/EnriqueG24/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueG24&layout=compact&theme=algolia)](https://github.com/EnriqueG24/github-readme-stats)
