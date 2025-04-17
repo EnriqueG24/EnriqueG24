@@ -81,8 +81,3 @@ I'm always open to discussing iOS development, potential collaborations, or new 
 - Dedicated fan of the LA Lakers, LA Rams, and LA Kings
 - Based in Los Angeles, CA
 - Passionate about creating accessible mobile experiences
-
-## 📊 GitHub Stats
-
-[![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnriqueG24&show_icons=true&count_private=true&theme=algolia)](https://github.com/EnriqueG24/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueG24&layout=compact&theme=algolia)](https://github.com/EnriqueG24/github-readme-stats)
